@@ -1,7 +1,7 @@
 # Day40
 # Exercise 4
 # Secret Code
-# Write a python program to translate a message into secret code language. Use the rules below to trasnlate the message into secret code.
+# Write a python program to translate a message into secret code language. Use the rules below to translate the message into secret code.
 # Coding:
 # if the word contains atleast 3 characters, remove the first letter and append it at the end
 #   now append three random characters at the starting and the end

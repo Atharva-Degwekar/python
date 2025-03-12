@@ -43,7 +43,7 @@ guaranteed_prize = 0
 # Expert name and details
 expert_name = "Atharva Degwekar"
 
-expert_details = "He is an Engineer aur apne research ke liye bahut prasiddh hai, aur duniya ke shreshth engineers mein se ek hai."
+expert_details = "He is an Engineer aur apne research ke liye bahut prasiddh hai, aur duniya ke khi sarva shreshth engineers mein se ek hai."
 
 # Lifelines dictionary remains unchanged
 lifelines = {

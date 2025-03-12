@@ -15,13 +15,13 @@ try:
         elif a == 2:
             print(f"Chalo chalo!! , {a}")
         elif a == 3:
-            print(f"abe kuch dhang ka soch le")
+            print(f"abe kuch dhang ka soch le , {a}")
         elif a >= 4:
             print("Har ek number ke liye guess nahi karne vala")
             print("Baki ka code baad me likhunga!!", f"ha vaise tere a ki value hai {a}")
 
 except ValueError as v:
-    print("Abe hushari number ka matlab samjh nahi aata kya udhar naam likhne bola tha kya tereko.", f"{v}")
+    print("Abe hushari number ka matlab samjh nahi aata kya udhar naam likhne bola tha kya tereko?", f"{v}")
 finally:
     print("Abhi chod jo hua vo hua vapas karte hai.")
 
